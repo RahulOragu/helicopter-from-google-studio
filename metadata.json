@@ -1,0 +1,5 @@
+{
+  "name": "Helicopter Fuel System Digital Twin",
+  "description": "A digital twin dashboard for simulating the Ardiden 1 series helicopter fuel injection system, including real-time monitoring, fault injection, and health assessment based on provided technical specifications.",
+  "requestFramePermissions": []
+}
